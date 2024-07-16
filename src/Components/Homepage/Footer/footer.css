@@ -1,0 +1,89 @@
+.footer {
+
+    max-width: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding-top: 0px;
+    background-color: #8a2be2;
+    height: 350px;
+}
+
+.footer-container {
+    width: 1240px;
+    height: 260px;
+    padding-top: -10px;
+    margin: 0 auto;
+ 
+
+}
+.footer-top{
+
+    display: flex;
+    justify-content: space-between;
+
+    gap: 250px;
+    text-decoration: none;
+    border-bottom: 4px  solid white;
+}
+.footer-list{
+    width: 100px;
+    margin-top: 30px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 4px 6px 5px 5px solid white;
+}
+.footer-list2{
+    width: 280px;
+    margin-top: 30px;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer-part-link{
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+.footer-link{
+    color: #fff;
+
+    text-decoration: none;
+    padding: 6px 4px;
+}
+.footer-h2{
+    color: #fff;
+}
+.footer-list-1{
+    width: 260px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer-svg{
+    padding: 10px;
+    color: #fff;
+    border: 1px solid #fff;
+}
+.footer-svg:hover{
+    color: #8a2be2;
+    background-color: #fff;
+}
+.footer-list3{
+    width: 280px;
+    margin-top: 30px;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer-buttom{
+
+    display: flex;
+    justify-content: space-between;
+   
+    gap: 250px;
+    margin-top: 40px;
+    text-decoration: none;
+}

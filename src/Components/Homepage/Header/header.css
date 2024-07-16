@@ -1,0 +1,125 @@
+ *{
+    box-sizing: border-box;
+    margin: 0;
+ }
+ .header{
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: white;
+    z-index: 2;
+    position: fixed;
+    left: 0;
+    right: 0;   
+    top: 0;
+}
+.header-container{
+    width: 1240px;
+    margin: 0 auto;
+    padding: 10px 25px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-part{
+    width: 710px;
+    height: 67px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.header-part-two{
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-item{
+    width: 600px;
+    justify-content: space-between;
+    margin: 20px;
+}
+.header-part-link{
+    text-decoration: none;
+    color: #8a2be2;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    padding-left: 15px;
+}
+.header-item-link{
+    gap: 30px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    line-height: 35px;
+    padding: 10px 30px;
+    transition: .3s;
+}
+.header-item-link:active{
+    background-color: #8a2be2;
+    color: #fff;
+    -webkit-transform: scale(.9);
+    transform: scale(.9);
+}
+.bascet-btn{
+    margin-right: 50px;
+    border: 0px;
+    width: 60px;
+    background-color: white;
+}
+.bascet-btn:hover{
+    transform: scale(1.2);
+    transition: 1s;
+}
+.header-part-button{
+    width: 110px;
+    height: 40px;
+    background-color: #8a2be2;
+    border: 2px solid #8a2be2;
+    color: #fff;
+    display: inline-block;
+    font-size: 18px;
+    transition: .3s;
+}
+.header-part-button:hover{
+    background-color: #fff;
+    color: #8a2be2;
+}
+.Modal{
+    width: 250px important; 
+    height: 350px important;
+    text-align: center;
+}
+.header-m-h1{
+    color: #8a2be2;
+    font-weight: 700;
+    padding: 7px;
+    font-size: 24px;
+}
+.header-m-p{
+    font-size: 14px;
+    padding: 7px;
+}
+input{
+    width: 250px;
+    height: 40px;
+    padding: 7px;
+    margin: 10px;
+}
+.header-m-button{
+    width: 110px;
+    height: 40px;
+    background-color: #8a2be2;
+    border: 2px solid #8a2be2;
+    color: #fff;
+    display: inline-block;
+    font-size: 18px;
+    transition: .3s;
+    padding: 5px;
+    margin: 10px;
+}
+.header-m-button:hover{
+    background-color: #fff;
+    color: #8a2be2;
+}

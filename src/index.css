@@ -1,0 +1,67 @@
+.active{
+    background-color: #8a2be2;
+    color: #fff;
+}
+
+.Xotdog{
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0px;
+}
+.xotdog-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.xaggi{
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0px;
+}
+.xaggi-container{
+    display: flex;
+    flex-wrap: wrap;
+    /* text-align: center; */
+    justify-content: center;
+}
+.burger{
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0px;
+}
+.burger-container{
+    display: flex;
+    flex-wrap: wrap;
+    /* text-align: center; */
+    justify-content: center;
+}
+.pizza{
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0px;
+}
+.pizza-container{
+    display: flex;
+    flex-wrap: wrap;
+    /* text-align: center; */
+    justify-content: center;
+}
+
+.set{
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0px;
+}
+.set-container{
+    display: flex;
+    flex-wrap: wrap;
+    /* text-align: center; */
+    justify-content: center;
+}
+main{
+    margin-top: 100px;
+}
+.active1{
+    background-color: white;
+    color: blueviolet
+}
