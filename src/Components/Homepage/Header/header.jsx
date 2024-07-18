@@ -59,6 +59,7 @@ function Header() {
         console.log("Error", error);
       });
   };
+  const notify = () => toast("Wow so easy!");
 
   return (
     <>
@@ -91,7 +92,7 @@ function Header() {
                 <p className="header-m-p">{t('header.header-title7')}</p>
                 <input type="text" minLength={2} placeholder='name' onChange={(e) => setName(e.target.value)} required />
                 <input type='number' minLength={2} placeholder='+998987654321' onChange={(e) => setPhone(e.target.value)} required /><br />
-                <button type='submit' className="header-m-button">{t('header.header-title5')}</button>
+                <button type='submit' onClick={notify} className="header-m-button">{t('header.header-title5')}</button>
               </form>
             </Modal>
           </div>
