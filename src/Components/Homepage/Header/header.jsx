@@ -34,6 +34,7 @@ function Header() {
   }, [items]);
 
   const sendMessageToTelegram = (e) => {
+    e.preventDefault()
      const token = "6757145376:AAHSqi6W4lT7vqtPXltbUDLl7drJytYTylo";
     const chat_id = 2055583199;
     const url = `https://api.telegram.org/bot${token}/sendMessage`;
@@ -43,7 +44,6 @@ function Header() {
       chat_id: chat_id,
       text: message
     };
-
     fetch(url, {
       method: 'POST',
       headers: {
