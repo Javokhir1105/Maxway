@@ -34,7 +34,7 @@
     justify-content: space-between;
 }
 .header-item{
-    width: 600px;
+    width: 750px;
     justify-content: space-between;
     margin: 20px;
 }
@@ -51,7 +51,7 @@
     gap: 30px;
     text-decoration: none;
     display: inline-block;
-    font-size: 18px;
+    font-size: 17px;
     line-height: 35px;
     padding: 10px 30px;
     transition: .3s;

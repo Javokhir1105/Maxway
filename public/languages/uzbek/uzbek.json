@@ -1,0 +1,65 @@
+{
+    "header":{
+        "header-title1":"Asosiy",
+        "header-title2":"Filiallar",
+        "header-title3":"Biz haqimizda",
+        "header-title4":"Bog'lanish",
+        "header-title5":"Kirish",
+        "header-title6":"Hush kelibsiz",
+        "header-title7":"Telefon raqamingizni kiriting"
+    },
+    "Choose":{
+        "Choose-title1":"Mazali qizil ko'p chipslar ",
+        "Choose-title2":"1 ta olsangiz sous tekin ",
+        "Choose-title3":"Makron pastsi bilan birga",
+        "Choose-title4":"Tabingizga ko'ra issiq sho'rva",
+        "Choose-title5":"Yoniga amlet qo'shilgan shorva ",
+        "Choose-title6":"Amlett pastsi bilan birga",
+        "Choose-title7":"Makron sousi bilan birga",
+        "Choose-title8":"Hammasi baribir bir xil sho'rva",
+        "Choose-title9":"Sizning tabingizga bunini mos keladi"
+    },
+    "Card":{
+        "Card-title":"Ma'lumot: klassik go'shtli lavash, frantsuz kartoshkasi, qalampir",
+        "Card-btn":"Buyurtma"
+    },
+    "Rout":{
+        "Rout-title1":"Desert",
+        "Rout-title2":"Set",
+        "Rout-title3":"Xaggi",
+        "Rout-title4":"Burger",
+        "Rout-title5":"Pitsa",
+        "Rout-title6":"Sandvich",
+        "Rout-title7":"Donar",
+        "Rout-title8":"Xot-dog",
+        "Rout-title9":"Water"
+    },
+    "Footer":{
+        "Footer-title1":"Bizga qo'shiling",
+        "Footer-title2":"Raqam bo'yicha buyurtma",
+        "Footer-title3":"© 2020–2022, IT-TIME MChJ, rasmiy veb-sayt",
+        "Footer-title4":"Javohir tomonidan yasaldi "
+    },
+    "About":{
+        "About-title1":"Kompaniya haqida",
+        "About-title2":"Kompaniya 2005 yil fevral oyida Toshkent shahrida tashkil etilgan. Hozirda kompaniyaning Toshkent shahrida 11 ta filiali mavjud. Menyu asosan klub sendvichlari, hot-doglar, burgerlar, pita nonlari va donarlardan iborat. Bizning ustuvor vazifalarimiz - ingredientlarning yangiligi va sifati, turli xil to'ldirishlar, arzon narxlar va mehmonlarning so'rovlariga e'tibor. Har kuni MaxWay-dan juda ko'p turli xil odamlar buyurtma berishadi. Biz esa tashrif buyuruvchilar sonini ham, filiallar sonini ham oshirishga harakat qilyapmiz. Biz tayyorlagan har bir taom bilan biz o'zimizning o'ziga xos retseptlarimizning tafsilotlarini aniqlaymiz va sizning sevimli brendingiz bo'lib qolishda davom etish uchun narx va sifatning mukammal muvozanatini qidiramiz.Agar siz to'satdan biz tomonimizdan sifatsiz xizmat ko'rsatishga yoki tayyor ovqatning past sifatiga duch kelsangiz, bizga yozing. Biz ijobiy va salbiy fikr-mulohazalarni mamnuniyat bilan qabul qilamiz. Mehmonning shikoyati bizga o'sish uchun imkoniyat beradigan sovg'adir."
+    },
+    "kontakt":{
+        "kontakt-title1":"Aloqa markazi raqamlari",
+        "kontakt-title2":"Kuniga 24 soat, haftada etti kun",
+        "kontakt-title3":"Toshkent",
+        "kontakt-title4":"Mijozlarni qo'llab-quvvatlash bo'limi",
+        "kontakt-title5":"Elektron pochta",
+        "kontakt-title6":"aloqa telefon raqami",
+        "kontakt-title7":"Mualliflik huquqi egalari",
+        "kontakt-title8":"Savdo belgilari, logotiplar va boshqa materiallardan noto'g'ri foydalanish bilan bog'liq bo'lgan savollar uchun biz bilan elektron pochta orqali bog'laning va tasdiqlovchi hujjatlar ilova qilinadi."
+    },
+    "Filial":{
+        "Filial-title":"Ish vaqtlari"
+    },
+    "Big": {
+        "Big-title1": "Manzil: Magic City, Bobur ko'chasi, 174, Toshkent, O'zbekiston",
+        "Big-title2": "Telefon raqami:",
+        "Big-title3": "Mo'ljal"
+    }
+}

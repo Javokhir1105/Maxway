@@ -12,6 +12,7 @@ import Xaggi from "../Components/FOODS/Xaggi";
 import Choose from "../Components/Homepage/Choose/choose";
 import Hero from "../Components/Homepage/Hero/hero";
 import FoodsComponent from "../Components/FOODS/FoodsComponent";
+import Bigcard from "../Components/BigCard/Bigcard";
 
 const router = createBrowserRouter([
     {
@@ -60,6 +61,11 @@ const router = createBrowserRouter([
                 path: '/contact',
                 element: <Contact />
             },
+            {
+                path: '/filialCard',
+                element: <Bigcard />
+            },
+           
            
         ]
         

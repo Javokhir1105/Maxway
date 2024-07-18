@@ -1,0 +1,65 @@
+{
+    "header": {
+        "header-title1": "Home",
+        "header-title2": "Branches",
+        "header-title3": "About Us",
+        "header-title4": "Contact",
+        "header-title5": "Login",
+        "header-title6": "Welcome",
+        "header-title7": "Enter your phone number"
+    },
+        "Choose": {
+            "Choose-title1": "Delicious red crispy chips",
+            "Choose-title2": "Get 1, sauce is free",
+            "Choose-title3": "Together with macaroni pasta",
+            "Choose-title4": "Hot soup to your taste",
+            "Choose-title5": "Soup with omelette on the side",
+            "Choose-title6": "Together with omelette pasta",
+            "Choose-title7": "Together with macaroni sauce",
+            "Choose-title8": "All the same soup anyway",
+            "Choose-title9": "This will suit your taste"
+    },
+    "Card": {
+        "Card-title": "Information: classic meat lavash, French fries, pepper",
+        "Card-btn": "Order"
+    },
+    "Rout": {
+        "Rout-title1": "Dessert",
+        "Rout-title2": "Set",
+        "Rout-title3": "Khaggi",
+        "Rout-title4": "Burger",
+        "Rout-title5": "Pizza",
+        "Rout-title6": "Sandwich",
+        "Rout-title7": "Doner",
+        "Rout-title8": "Hot dog",
+        "Rout-title9": "Water"
+    },
+    "Footer": {
+        "Footer-title1": "Join our food company",
+        "Footer-title2": "Order by number",
+        "Footer-title3": "© 2020–2022, IT-TIME LLC, official website",
+        "Footer-title4": "Created by Javohir"
+    },
+    "About": {
+        "About-title1": "About the Company",
+        "About-title2": "The company was established in February 2005 in Tashkent city. Currently, the company has 11 branches in Tashkent city. The menu mainly consists of club sandwiches, hot dogs, burgers, pita breads, and doners. Our main goals are freshness and quality of ingredients, various fillings, affordable prices, and attention to guest requests. Every day, MaxWay serves a diverse range of people with various preferences. We strive to increase both the number of visitors and branches. We identify the details of our unique recipes with each prepared dish and strive for the perfect balance of price and quality to continue to be your favorite brand. If you are ever dissatisfied with our service or the quality of our prepared food, please let us know. We welcome both positive and negative feedback with satisfaction. Customer complaints provide us with an opportunity to improve."
+    },
+    "kontakt": {
+        "kontakt-title1": "Contact Center Numbers",
+        "kontakt-title2": "24 hours a day, 7 days a week",
+        "kontakt-title3": "Tashkent",
+        "kontakt-title4": "Customer Support Department",
+        "kontakt-title5": "Email",
+        "kontakt-title6": "Contact Phone Number",
+        "kontakt-title7": "Copyrights",
+        "kontakt-title8": "For inquiries related to improper use of trademarks, logos, and other materials, please contact us via email with supporting documents attached."
+    },
+    "Filial":{
+        "Filial-title":"Work time"
+    },
+    "Big": {
+        "Big-title1": "Address: Magic City, Babur Street, 174, Tashkent, Uzbekistan",
+        "Big-title2": "Phone number:",
+        "Big-title3": "Landmark"
+    }
+}

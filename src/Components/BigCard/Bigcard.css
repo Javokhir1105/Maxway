@@ -1,0 +1,57 @@
+.bigcard{
+    max-width: 100%;
+    margin: 0 auto;
+    height: 700px;
+    background-color: #f6f6f6;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.big-container{
+    width: 1240px;
+    margin: 0 auto;
+    padding: 25px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 12px;
+    box-shadow: 0 4px 30px rgb(0 0 0 / 7%);
+    cursor: pointer;
+    background-color: #fff;
+}
+.filial-iframe{
+    width: 700px;
+    height: 500px;
+}
+.filial-name{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 39px;
+    padding-bottom: 20px;
+}
+.filial-map{
+    font-size: 20px;
+    line-height: 22px;
+    line-height: 140%;
+    margin: 10px 0;
+}
+.filial-time{
+    font-size: 20px;
+    line-height: 22px;
+    line-height: 140%;
+    margin: 10px 0;
+}
+.filial-span{
+    font-size: 20px;
+    line-height: 22px;
+    line-height: 140%;
+    margin: 10px 0;
+    display: flex;
+    gap: 30px;
+}
+.filial-orientr{
+    font-size: 20px;
+    line-height: 22px;
+    line-height: 140%;
+    margin: 10px 0;
+}

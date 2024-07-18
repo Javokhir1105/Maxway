@@ -3,11 +3,13 @@
     margin: 0 auto;
     padding: 0px;
     background-color: #f6f6f6;
+    padding-top: 30px;
 }
 .filial-container{
     width: 1240px;
     margin: 0 auto;
     height: 400px;
+    margin-top: 30px;
 }
 .filial-item{
  

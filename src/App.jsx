@@ -8,6 +8,7 @@ import Choose from './Components/Homepage/Choose/choose'
 import Rout from './Components/Homepage/Secondrout/Rout'
 import { Outlet } from 'react-router'
 import Footer from './Components/Homepage/Footer/footer'
+import Bigcard from './Components/BigCard/Bigcard'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       <Header/>
       <main><Outlet/></main>
       <Footer />
+      {/* <Bigcard /> */}
     </div>
   )
 }
